@@ -1,0 +1,7 @@
+name,imageUrl,percentage,id,parentId
+Atech,, ,O-6066,
+Global Corp,,15%,O-6067,O-6066
+Invest Inc,,60%,O-6068,O-6066
+Acme,,25%,O-6069,O-6066
+Charlotte Cooper,,5%,O-6070,O-6067
+Yoshi Nagase,,95%,O-6071,O-6067
