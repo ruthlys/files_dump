@@ -1,7 +1,0 @@
-name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Atech,"<i class=""fa-solid fa-user""></i>",Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE, ,O-6066,,
-Global Corp,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,15%,O-6067,O-6066,
-Invest Inc,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,60%,O-6068,O-6066,
-Acme,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,25%,O-6069,O-6066,
-Charlotte Cooper,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,5%,O-6070,O-6067,
-Yoshi Nagase,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,95%,O-6071,O-6067,
