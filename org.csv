@@ -1,0 +1,7 @@
+name,imageUrl,percentage,id,parentId
+Atech,https://github.com/ruthlys/files_dump/blob/c97d9f3cb5a0cf8c066ed3b74ed790ff8e2ea9f0/business-and-trade.png, ,O-6066,
+Global Corp,https://github.com/ruthlys/files_dump/blob/c97d9f3cb5a0cf8c066ed3b74ed790ff8e2ea9f0/business-and-trade.png,15%,O-6067,O-6066
+Invest Inc,https://github.com/ruthlys/files_dump/blob/c97d9f3cb5a0cf8c066ed3b74ed790ff8e2ea9f0/business-and-trade.png,60%,O-6068,O-6066
+Acme,https://github.com/ruthlys/files_dump/blob/c97d9f3cb5a0cf8c066ed3b74ed790ff8e2ea9f0/business-and-trade.png,25%,O-6069,O-6066
+Charlotte Cooper,https://github.com/ruthlys/files_dump/blob/c97d9f3cb5a0cf8c066ed3b74ed790ff8e2ea9f0/user.png,5%,O-6070,O-6067
+Yoshi Nagase,https://github.com/ruthlys/files_dump/blob/c97d9f3cb5a0cf8c066ed3b74ed790ff8e2ea9f0/user.png,95%,O-6071,O-6067
