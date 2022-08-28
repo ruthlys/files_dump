@@ -1,0 +1,100 @@
+﻿id,date,country,city,district,lat,long,response,age,years_service,gender,profession,facility
+23200001,22/09/2022,Mexico,Distrito Federal,Miguel Hidalgo,19.4043,-99.1928,"massa. Mauris vestibulum, neque sed",25-34,44722,Female,Botanist,Private facility
+23200002,23/09/2022,Mexico,Distrito Federal,Miguel Hidalgo,19.4051,-99.1935,"lacinia at, iaculis quis, pede.",25-34,55768,Diverse,Fine Artist,Private facility
+23200003,12/06/2023,Mexico,Distrito Federal,Miguel Hidalgo,19.4051,-99.1935,"montes, nascetur ridiculus mus. Aenean",25-34,51998,Diverse,Meteorologist,Private facility
+23200004,17/12/2021,Mexico,Distrito Federal,Miguel Hidalgo,19.4002,-99.1881,"vestibulum lorem, sit amet ultricies",25-34,46974,Diverse,Jeweller,Private facility
+23200005,17/08/2022,Mexico,Distrito Federal,Miguel Hidalgo,19.392,-99.2435,"posuere vulputate, lacus. Cras interdum.",25-34,57615,Diverse,Florist,Private facility
+23200006,23/01/2023,Mexico,Distrito Federal,Miguel Hidalgo,19.398,-99.2354,"ante. Maecenas mi felis, adipiscing",25-34,58269,Diverse,Chef,Private facility
+23200007,27/01/2023,Mexico,Distrito Federal,Miguel Hidalgo,19.4034,-99.234,"elit, pretium et, rutrum non,",25-34,44079,Diverse,Fine Artist,Private facility
+23200008,24/04/2022,Mexico,Distrito Federal,Miguel Hidalgo,19.3985,-99.2288,"auctor vitae, aliquet nec, imperdiet",25-34,59185,Diverse,Salesman,Private facility
+23200009,24/06/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4127,-99.0879,"torquent per conubia nostra, per",25-34,54973,Diverse,Biochemist,Private facility
+23200010,29/10/2021,Mexico,Distrito Federal,Venustiano Carranza,19.4162,-99.094,"varius orci, in consequat enim",25-34,50158,Diverse,Carpenter,Private facility
+23200011,07/07/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4092,-99.0819,"magna, malesuada vel, convallis in,",25-34,57063,Diverse,Veterinarian,Private facility
+23200012,23/11/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4318,-99.1035,"nec ante. Maecenas mi felis,",25-34,54966,Diverse,Veterinarian,Private facility
+23200013,06/02/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4318,-99.1035,"malesuada vel, venenatis vel, faucibus",25-34,58871,Diverse,Historian,Private facility
+23200014,16/05/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4472,-99.1176,Aenean sed pede nec ante,25-34,40100,Diverse,Engineer,Private facility
+23200015,25/04/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4579,-99.1223,"nec, cursus a, enim. Suspendisse",25-34,49864,Diverse,Auditor,Private facility
+23200016,02/03/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4535,-99.1231,"consequat, lectus sit amet luctus",25-34,54151,Diverse,Cook,Private facility
+23200017,07/04/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4523,-99.1189,"eget laoreet posuere, enim nisl",25-34,40781,Diverse,Astronomer,Private facility
+23200018,21/11/2021,Mexico,Distrito Federal,Venustiano Carranza,19.4494,-99.1206,commodo ipsum. Suspendisse non leo.,25-34,56591,Diverse,Actor,Private facility
+23200019,04/05/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4476,-99.1143,nonummy. Fusce fermentum fermentum arcu.,25-34,57023,Diverse,Lecturer,Private facility
+23200020,12/07/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4471,-99.1197,eu tempor erat neque non,25-34,49146,Diverse,Interpreter,Private facility
+23200021,18/03/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4471,-99.1197,"dis parturient montes, nascetur ridiculus",25-34,41266,Diverse,Police Officer,Private facility
+23200022,09/03/2022,Mexico,Distrito Federal,Venustiano Carranza,19.447,-99.1256,"porta elit, a feugiat tellus",25-34,52759,Diverse,Biochemist,Private facility
+23200023,27/11/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4362,-99.1149,felis purus ac tellus. Suspendisse,25-34,54156,Diverse,Social Worker,Private facility
+23200024,24/02/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4332,-99.1202,nunc sed libero. Proin sed,25-34,59806,Diverse,Archeologist,Private facility
+23200025,24/12/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4332,-99.1202,massa lobortis ultrices. Vivamus rhoncus.,25-34,47734,Diverse,Engineer,Private facility
+23200026,06/10/2021,Mexico,Distrito Federal,Venustiano Carranza,19.4407,-99.1088,senectus et netus et malesuada,35-50,49428,Diverse,Programmer,Private facility
+23200027,24/01/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4407,-99.1088,sapien. Aenean massa. Integer vitae,35-50,49806,Diverse,Chemist,Private facility
+23200028,13/03/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4522,-99.1124,nunc. Quisque ornare tortor at,35-50,54528,Diverse,Astronomer,Private facility
+23200029,16/12/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4383,-99.1077,"mauris elit, dictum eu, eleifend",35-50,56185,Diverse,Journalist,Private facility
+23200030,10/06/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4406,-99.1064,semper. Nam tempor diam dictum,35-50,44834,Diverse,Economist,Private facility
+23200031,08/01/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4406,-99.1064,"id, blandit at, nisi. Cum",35-50,58134,Diverse,Hairdresser,Private facility
+23200032,12/08/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4436,-99.105,consectetuer adipiscing elit. Curabitur sed,35-50,45750,Diverse,Electrician,Private facility
+23200033,05/08/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4407,-99.1088,Proin velit. Sed malesuada augue,35-50,54742,Female,Carpenter,Private facility
+23200034,14/05/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4362,-99.1082,"vitae nibh. Donec est mauris,",35-50,41184,Female,Driver,Private facility
+23200035,14/04/2023,Mexico,Distrito Federal,Venustiano Carranza,19.4331,-99.1131,Aliquam fringilla cursus purus. Nullam,35-50,42136,Female,Lecturer,Private facility
+23200036,03/08/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4407,-99.1088,est. Nunc laoreet lectus quis,35-50,47882,Female,Florist,Private facility
+23200037,19/11/2021,Mexico,Distrito Federal,Venustiano Carranza,19.4423,-99.0971,"ipsum sodales purus, in molestie",35-50,49026,Female,Cook,Private facility
+23200038,18/05/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4485,-99.0968,"mauris, rhoncus id, mollis nec,",35-50,43270,Female,Mechanic,Private facility
+23200039,29/08/2021,Mexico,Distrito Federal,Venustiano Carranza,19.4484,-99.101,"facilisis vitae, orci. Phasellus dapibus",35-50,44927,Female,Composer,Private facility
+23200040,18/03/2022,Mexico,Distrito Federal,Venustiano Carranza,19.4467,-99.0914,"Nunc mauris sapien, cursus in,",35-50,47140,Female,Police Officer,Private facility
+23200041,23/08/2021,Mexico,Distrito Federal,Venustiano Carranza,19.4431,-99.1134,nec ante blandit viverra. Donec,35-50,56578,Female,Carpenter,Private facility
+23200042,03/12/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Fusce feugiat. Lorem ipsum dolor,35-50,52133,Female,Fashion Designer,Private facility
+23200043,05/07/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,nascetur ridiculus mus. Aenean eget,35-50,59190,Female,Auditor,Private facility
+23200044,14/08/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,molestie dapibus ligula. Aliquam erat,35-50,51164,Female,Botanist,Private facility
+23200045,08/08/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Fusce aliquet magna a neque.,35-50,43223,Female,Lawer,Private facility
+23200046,12/10/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"metus. In lorem. Donec elementum,",35-50,49483,Female,Florist,Private facility
+23200047,02/02/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Suspendisse sed dolor. Fusce mi,35-50,48728,Female,Teacher,Private facility
+23200048,25/10/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,velit justo nec ante. Maecenas,35-50,56104,Female,Hairdresser,Private facility
+23200049,20/02/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"est, vitae sodales nisi magna",35-50,56189,Female,Accountant,Public facility
+23200050,18/12/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"elit, pretium et, rutrum non,",35-50,53637,Female,Historian,Public facility
+23200051,25/05/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,a mi fringilla mi lacinia,35-50,41983,Female,Producer,Public facility
+23200052,25/03/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"sodales at, velit. Pellentesque ultricies",35-50,59047,Female,Photographer,Public facility
+23200053,16/11/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Vivamus rhoncus. Donec est. Nunc,35-50,54071,Female,Architect,Public facility
+23200054,27/10/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"Vivamus nibh dolor, nonummy ac,",35-50,45930,Female,Composer,Public facility
+23200055,03/06/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,dapibus ligula. Aliquam erat volutpat.,35-50,52999,Female,Journalist,Public facility
+23200056,07/10/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,ipsum non arcu. Vivamus sit,35-50,58602,Female,Chemist,Public facility
+23200057,24/09/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Aenean eget metus. In nec,35-50,52324,Female,Driver,Public facility
+23200058,09/02/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"sit amet, dapibus id, blandit",51-65,46799,Female,Salesman,Public facility
+23200059,31/03/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"nibh. Phasellus nulla. Integer vulputate,",51-65,43979,Female,Baker,Public facility
+23200060,04/06/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,ipsum. Suspendisse non leo. Vivamus,51-65,44536,Female,Dancer,Public facility
+23200061,05/12/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,mauris. Morbi non sapien molestie,51-65,51906,Female,Archeologist,Public facility
+23200062,12/06/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,mauris. Suspendisse aliquet molestie tellus.,51-65,55627,Female,Agronomist,Public facility
+23200063,04/09/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,cursus. Integer mollis. Integer tincidunt,51-65,50421,Female,Actor,Public facility
+23200064,27/11/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"elementum, dui quis accumsan convallis,",51-65,48261,Female,Social Worker,Public facility
+23200065,20/05/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"egestas a, dui. Cras pellentesque.",51-65,52315,Female,Social Worker,Public facility
+23200066,26/08/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Sed eu nibh vulputate mauris,51-65,41449,Female,Astronomer,Public facility
+23200067,29/04/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Sed eget lacus. Mauris non,51-65,50913,Female,Lecturer,Public facility
+23200068,13/01/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"a, facilisis non, bibendum sed,",51-65,56371,Female,Agronomist,Public facility
+23200069,07/02/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,risus. Nunc ac sem ut,51-65,47690,Female,Veterinarian,Public facility
+23200070,15/08/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Morbi vehicula. Pellentesque tincidunt tempus,51-65,45689,Female,Scientist,Public facility
+23200071,15/11/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"sit amet luctus vulputate, nisi",51-65,49697,Female,Dancer,Public facility
+23200072,18/04/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,lobortis. Class aptent taciti sociosqu,51-65,48581,Female,Electrician,Public facility
+23200073,24/04/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,non arcu. Vivamus sit amet,51-65,48308,Female,Lawer,Public facility
+23200074,07/08/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"imperdiet, erat nonummy ultricies ornare,",51-65,47142,Female,Archeologist,Public facility
+23200075,05/05/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Morbi accumsan laoreet ipsum. Curabitur,51-65,50169,Female,Dancer,Public facility
+23200076,23/07/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"ut, sem. Nulla interdum. Curabitur",51-65,41718,Female,Composer,Public facility
+23200077,21/03/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,consequat dolor vitae dolor. Donec,51-65,54148,Female,Teacher,Public facility
+23200078,19/03/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"est ac facilisis facilisis, magna",51-65,45908,Female,Interior Designer,Public facility
+23200079,11/12/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,arcu. Morbi sit amet massa.,51-65,47861,Female,Astronomer,Public facility
+23200080,05/07/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"posuere, enim nisl elementum purus,",51-65,46725,Female,Lawer,Public facility
+23200081,11/04/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,tincidunt vehicula risus. Nulla eget,51-65,54167,Female,Engineer,Public facility
+23200082,27/02/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,ligula consectetuer rhoncus. Nullam velit,51-65,41953,Female,Florist,Public facility
+23200083,11/02/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,leo. Cras vehicula aliquet libero.,51-65,56619,Female,Pharmacist,Public facility
+23200084,25/04/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,sit amet diam eu dolor,51-65,55149,Female,Archeologist,Public facility
+23200085,22/02/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"rhoncus. Nullam velit dui, semper",51-65,57500,Female,Manager,Public facility
+23200086,29/10/2021,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,turpis. Nulla aliquet. Proin velit.,51-65,54366,Female,Chemist,Public facility
+23200087,06/04/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"viverra. Donec tempus, lorem fringilla",51-65,58658,Female,Mechanic,Public facility
+23200088,17/07/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,sagittis semper. Nam tempor diam,51-65,59326,Female,Physicist,Public facility
+23200089,09/03/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Nunc quis arcu vel quam,51-65,42772,Female,Programmer,Public facility
+23200090,15/02/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"velit. Cras lorem lorem, luctus",51-65,40940,Female,Scientist,Public facility
+23200091,13/09/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"in magna. Phasellus dolor elit,",51-65,58061,Female,Cook,Public facility
+23200092,04/03/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,justo. Proin non massa non,51-65,51867,Female,Journalist,Public facility
+23200093,27/01/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"sed, sapien. Nunc pulvinar arcu",51-65,44815,Female,Economist,Public facility
+23200094,02/01/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Integer tincidunt aliquam arcu. Aliquam,51-65,58307,Female,Archeologist,Public facility
+23200095,14/03/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,sagittis placerat. Cras dictum ultricies,51-65,52206,Female,Engineer,Public facility
+23200096,20/02/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"ultricies ornare, elit elit fermentum",51-65,57042,Female,Driver,Public facility
+23200097,14/02/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,"risus varius orci, in consequat",51-65,53935,Female,Economist,Public facility
+23200098,20/05/2023,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,consectetuer mauris id sapien. Cras,51-65,40246,Female,Producer,Public facility
+23200099,30/05/2022,Mexico,Distrito Federal,Xochimilco,19.2189,-99.1097,Nam porttitor scelerisque neque. Nullam,51-65,57666,Female,Interpreter,Public facility
